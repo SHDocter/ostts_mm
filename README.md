@@ -1,8 +1,8 @@
 哔哩哔哩直播间7194086 mc舰长服客户端下载器<br><br>
 仅支持windows<br><br>
 程序基本上所有变量都是读取的服务器参数 部分改动无需更新下载器<br><br>
-因为易语言的原因 下载之前先关掉360和电脑管家之类的东西 defender防止报毒的方法：退出360和电脑管家 然后在安全中心里[添加排除项](https://jingyan.baidu.com/article/b87fe19e22f8435219356840.html)<br><br>
-<p style="color:red">通过增加加密壳的方式防止误报 目前测试defender会报毒但不会删文件 360没反应<br><br></p>
+<s>因为易语言的原因 下载之前先关掉360和电脑管家之类的东西 defender防止报毒的方法：退出360和电脑管家 然后在安全中心里[添加排除项](https://jingyan.baidu.com/article/b87fe19e22f8435219356840.html)</s><br><br>
+<p style="color:red">通过增加加密壳的方式防止误报 目前测试defender会报毒但不会删文件 微软smartscreen会拦截 360和电脑管家没反应<br><br></p>
 更新日志
 
 - 2021.01.26 通过增加加密壳的方式防止误报
