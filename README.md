@@ -5,6 +5,7 @@
 <s>因为易语言的原因 下载之前先关掉360和电脑管家之类的东西 defender防止报毒的方法：退出360和电脑管家 然后在安全中心里[添加排除项](https://jingyan.baidu.com/article/b87fe19e22f8435219356840.html)</s><br><br>
 通过增加加密壳的方式防止误报 目前测试defender会报毒但不会删文件 微软smartscreen会拦截 360和电脑管家没反应<br><br>
 关于二次修改的问题 服务器参数文件可以按照源码对照编写 因为涉及到下载url的问题 暂时不提供 之后可能会写一份通用版的文件（划重点 可能）<br><br>
+4.3.22之前的版本务必要更新到之后的版本 否则会导致更新检测一直提示为最新版本<br>
 [老版本点这里](https://github.com/SHDocter/ostts_download/releases)<br>
 更新日志
 
